@@ -20,8 +20,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/student-curd-java.git
-Navigate to the project directory.
+git clone [https://github.com/your-username/student-curd-java.git](https://github.com/Mush2110/Student-Curd-Opration.git)
 
 bash
 Copy code
